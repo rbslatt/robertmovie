@@ -1,0 +1,11 @@
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\bago to\bago to\bin\Debug\bago to.exe.config
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\bago to\bago to\bin\Debug\bago to.exe
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\bago to\bago to\bin\Debug\bago to.pdb
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\bago to\bago to\obj\Debug\bago to.csprojResolveAssemblyReference.cache
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\bago to\bago to\obj\Debug\bago_to.Form1.resources
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\bago to\bago to\obj\Debug\bago_to.Form2.resources
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\bago to\bago to\obj\Debug\bago_to.Properties.Resources.resources
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\bago to\bago to\obj\Debug\bago to.csproj.GenerateResource.Cache
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\bago to\bago to\obj\Debug\bago to.exe
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\bago to\bago to\obj\Debug\bago to.pdb
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\bago to\bago to\obj\Debug\bago_to.Form3.resources

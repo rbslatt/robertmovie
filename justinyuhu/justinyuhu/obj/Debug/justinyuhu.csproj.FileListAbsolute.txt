@@ -1,0 +1,10 @@
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\justinyuhu\justinyuhu\bin\Debug\justinyuhu.exe.config
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\justinyuhu\justinyuhu\obj\Debug\justinyuhu.csprojResolveAssemblyReference.cache
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\justinyuhu\justinyuhu\obj\Debug\justinyuhu.Form1.resources
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\justinyuhu\justinyuhu\obj\Debug\justinyuhu.Properties.Resources.resources
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\justinyuhu\justinyuhu\obj\Debug\justinyuhu.csproj.GenerateResource.Cache
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\justinyuhu\justinyuhu\bin\Debug\justinyuhu.exe
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\justinyuhu\justinyuhu\bin\Debug\justinyuhu.pdb
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\justinyuhu\justinyuhu\obj\Debug\justinyuhu.exe
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\justinyuhu\justinyuhu\obj\Debug\justinyuhu.pdb
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\justinyuhu\justinyuhu\obj\Debug\justinyuhu.Form2.resources

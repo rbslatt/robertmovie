@@ -1,0 +1,10 @@
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\robertmoviessss\robertmoviessss\bin\Debug\robertmoviessss.exe.config
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\robertmoviessss\robertmoviessss\bin\Debug\robertmoviessss.exe
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\robertmoviessss\robertmoviessss\bin\Debug\robertmoviessss.pdb
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\robertmoviessss\robertmoviessss\obj\Debug\robertmoviessss.csprojResolveAssemblyReference.cache
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\robertmoviessss\robertmoviessss\obj\Debug\robertmoviessss.Form1.resources
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\robertmoviessss\robertmoviessss\obj\Debug\robertmoviessss.Properties.Resources.resources
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\robertmoviessss\robertmoviessss\obj\Debug\robertmoviessss.csproj.GenerateResource.Cache
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\robertmoviessss\robertmoviessss\obj\Debug\robertmoviessss.exe
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\robertmoviessss\robertmoviessss\obj\Debug\robertmoviessss.pdb
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\robertmoviessss\robertmoviessss\obj\Debug\robertmoviessss.Form2.resources
